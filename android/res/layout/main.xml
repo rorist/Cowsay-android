@@ -37,7 +37,6 @@
         android:layout_weight="1"
         android:fillViewport="true">
             <TextView
-                style="@style/cowstyle"
                 android:id="@+id/thecow"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
